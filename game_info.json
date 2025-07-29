@@ -1,0 +1,162 @@
+{
+    "frame": 500,
+    "self_x": 340,
+    "self_y": 404,
+    "self_w": 30,
+    "self_h": 60,
+    "self_vel": 25,
+    "self_lv": 1,
+    "opponent_x": 940,
+    "opponent_y": 404,
+    "opponent_lv": 1,
+    "opponent_w": 30,
+    "opponent_h": 60,
+    "opponent_vel": 25,
+    "foods": [
+        {
+            "x": 519,
+            "y": 567,
+            "w": 30,
+            "h": 30,
+            "type": "FOOD_1",
+            "score": 1
+        },
+        {
+            "x": 1091,
+            "y": 286,
+            "w": 30,
+            "h": 30,
+            "type": "FOOD_1",
+            "score": 1
+        },
+        {
+            "x": 561,
+            "y": 635,
+            "w": 30,
+            "h": 30,
+            "type": "FOOD_1",
+            "score": 1
+        },
+        {
+            "x": 242,
+            "y": 251,
+            "w": 30,
+            "h": 30,
+            "type": "FOOD_1",
+            "score": 1
+        },
+        {
+            "x": 795,
+            "y": 530,
+            "w": 40,
+            "h": 40,
+            "type": "FOOD_2",
+            "score": 2
+        },
+        {
+            "x": 618,
+            "y": 582,
+            "w": 30,
+            "h": 30,
+            "type": "GARBAGE_1",
+            "score": -1
+        },
+        {
+            "x": 760,
+            "y": 624,
+            "w": 40,
+            "h": 40,
+            "type": "FOOD_2",
+            "score": 2
+        },
+        {
+            "x": 1012,
+            "y": 611,
+            "w": 50,
+            "h": 50,
+            "type": "FOOD_3",
+            "score": 4
+        },
+        {
+            "x": 575,
+            "y": 432,
+            "w": 30,
+            "h": 30,
+            "type": "GARBAGE_1",
+            "score": -1
+        },
+        {
+            "x": 638,
+            "y": 747,
+            "w": 40,
+            "h": 40,
+            "type": "GARBAGE_2",
+            "score": -4
+        },
+        {
+            "x": 955,
+            "y": 475,
+            "w": 30,
+            "h": 30,
+            "type": "FOOD_1",
+            "score": 1
+        },
+        {
+            "x": 335,
+            "y": 129,
+            "w": 40,
+            "h": 40,
+            "type": "FOOD_2",
+            "score": 2
+        },
+        {
+            "x": 622,
+            "y": 174,
+            "w": 50,
+            "h": 50,
+            "type": "GARBAGE_3",
+            "score": -10
+        },
+        {
+            "x": 644,
+            "y": 463,
+            "w": 40,
+            "h": 40,
+            "type": "GARBAGE_2",
+            "score": -4
+        },
+        {
+            "x": 654,
+            "y": 287,
+            "w": 50,
+            "h": 50,
+            "type": "GARBAGE_3",
+            "score": -10
+        }
+    ],
+    "score": -7,
+    "score_to_pass": 180,
+    "status": "GAME_ALIVE",
+    "env": {
+        "playground_size_w": 1200,
+        "playground_size_h": 650,
+        "score_to_pass": 180,
+        "time_to_play": 1800,
+        "food_1": 5,
+        "food_1_max": 5,
+        "food_2": 1,
+        "food_2_max": 3,
+        "food_3": 0,
+        "food_3_max": 1,
+        "garbage_1": 2,
+        "garbage_1_max": 3,
+        "garbage_2": 1,
+        "garbage_2_max": 2,
+        "garbage_3": 0,
+        "garbage_3_max": 3,
+        "left": 40,
+        "right": 1240,
+        "top": 119,
+        "bottom": 769
+    }
+}
