@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 100px calc(50% - 600px) 0;
+    height: 650px;
+    padding: 0; /* Center the content */
+    div#screen {
+        width: 1200px;
+        height: 650px;
+        background-image: url('img/background.png');
+        background-size: cover;
+    }
+    
+    background-color: black;
+}
+
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+footer {
+    background: #35424a;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
